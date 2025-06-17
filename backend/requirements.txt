@@ -1,0 +1,5 @@
+pdfplumber
+openai==1.86.0
+fpdf
+python-dotenv==1.1.0
+flask
